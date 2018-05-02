@@ -1,0 +1,2 @@
+ERROR    [2017-10-26 09:19:56,147] There is no host for deletekolas - ZNET-23086
+INFO     [2017-10-26 09:19:56,156] 127.0.0.1 - - [26/Oct/2017 09:19:56] "POST /zabbix-remove?key=ZNET-23086 HTTP/1.1" 200 -

@@ -1,0 +1,215 @@
+Flag,Contents
+,History Actions
+,Tools
+,Files
+,Logs
+,Network Maps
+,Probes
+,Devices
+,Networks
+,Services
+,Admins
+,Notifications
+,Links
+,Address Lists
+,Charts
+,Mib Nodes
+,Functions
+,Panels
+,Agents
+,Debug Log
+,Action Log
+,Event Log
+,Local
+,24/7
+,LiftNet
+,Zhovtneva
+,I.Boguna
+,Chehova
+,Bilshovutska
+,Kotovskogo
+,Voroshilova
+,Pushkina
+,I.Gonty
+,Отладка
+,Действие
+,Событие
+,Lenina
+,Saksaganskogo
+,Gorkogo
+,K.Libknehta
+,Komarova
+,Lomonosova
+,Par.Kom.
+,Office
+,root 127.0.0.1
+,RDA_wifi
+,Kyivska
+,Rod_wifi
+,taras 192.168.15.151
+,S.Perovskoyi
+,Respubl.
+,Gorkogo_from_3_12
+,(10.10.3.12).Evrop.31.Catalyst.6509 (Po3)
+,lexaksey 192.168.51.210
+,kolas 192.168.33.245
+,Tuschuka
+,sana 192.168.15.34
+,Kuzmuna Greblya
+,L.Iskru.1/24
+,Naberezhna
+,"Bydka ""DM.Radyanska"""
+,"Bydka ""Michyrina"""
+,"Bydka ""DM.Sadova"""
+,"Bydka ""DM.Cerkva"""
+,VIP
+,Piontkovskogo
+,Yrickogo
+,Zhovtneva.
+,Nekrasova
+,Zhovtneva...
+,Yrickogo_
+,dimedrolus 176.98.95.5
+,LAN
+,IP.Camera
+,admin 192.168.83.97
+,(10.10.3.6).MSDOS.Catalyst.6506
+,(10.10.3.11/12).Evrop.31.Catalyst.6509
+,Terminal
+,(10.10.3.10).Y.Mudrogo.2.Catalyst.6509
+,(10.10.3.8).Nezal.61.Catalyst.6509
+,(10.10.7.3).Len.31.Catalyst.3500.48
+,(10.10.7.4).Len.31_opt Catalyst.3550
+,(11.110).Pushk.10.Catalyst.3550.24
+,(11.62).Shev.21.Catalyst.3500.24
+,(10.10.3.9).got.Uman.Catalyst.6509
+,PrivatBank
+,(10.10.3.7).Neb.sotni.40.Catalyst.6509
+,Voroshilova_
+,Tuschuka_
+,Proletarska
+,"""Pentagon"""
+,Gorkogo_
+,Lenina_
+,Avtostrada
+,Chkalova
+,Lomonosova_
+,"L.Iskru.22A,184"
+,Molokova.4/Yrickogo
+,Pyshkina
+,"Bilshivutska, Gercena"
+,Zhovtneva_
+,Bog.prov.
+,Texnikum
+,Postusheva
+,(11.17).Pyshka.Catalyst.2950.48
+,Zaliznuchna
+,Chehova_
+,Komarova.29
+,Lenina.90
+,Lenina.96
+,Komarova.23
+,Komarova.25
+,Komarova.21
+,Komarova.17
+,P.Komynu
+,Kotovskogo_
+,Yrbaylisa
+,"Bydka ""Artema"""
+,"Bydka ""Pilotiv"""
+,Komarova.13A
+,"Bydka ""Pyshka"""
+,Komarova.21A
+,Lenina.92
+,Lenina.102
+,Lenina.98
+,K.Libknehta_
+,"Bydka ""Michyrina"" c"
+,Zaliznuchna_
+,Postusheva.
+,Kotlyarevskogo
+,Komarova.3
+,Energetuchna.9
+,Shevchenka
+,"Bydka ""Mayakovskogo"""
+,"Bydka ""Morozova"""
+,"Bydka ""P.Komynu"""
+,Sadova
+,"Bydka ""Xaltyrina"""
+,"Bydka ""Vorovskogo""_"
+,Bydka 'Zolota Rubka'
+,"Bydka ""Korolenka"""
+,"Bydka ""Saksagnaskogo"""
+,"Bydka ""Karmelyuka"""
+,"Bydka ""Kotovskogo"""
+,Sadova 28
+,wifi.in.ua
+,R.Chornogo
+,"Bydka ""Pavlova"""
+,wifi.in.ua_2
+,UPS
+,"Bydka ""RK.G.Pole"""
+,"Bydka ""RK.Lenina""111111"
+,"Bydka ""RK.Michyrina"""
+,"Bydka ""DM.Radyanska""."
+,I.Gontu
+,"Bydka ""DM.Sadova""111"
+,Lenina.
+,I.Gontu.
+,"Bydka ""DM.Cerkva"" 111"
+,Sadovuy.pr.16
+,Lenina.106
+,Kosiora.13
+,Glibka
+,UPLINKS
+,Lenina..
+,"Bydka ""GD.Novobydovu"""
+,S.Perovskoyi_
+,"Bydka ""Veteran"""
+,"Bydka ""C.Selo"""
+,Komarova.27
+,"Bydka ""RK.Shevchenka"""
+,P.Komynu..
+,Tuschuka.
+,Kamyanui.pr.4
+,Saksaganskogo.
+,Yruckogo
+,"Bydka ""Sverdlova"""
+,RTPC
+,backup 192.168.33.130
+,"Bydka ""Moprivska"""
+,Gorkogo.
+,"Bydka ""Vorovskogo"""
+,Shevchenka.
+,V.Internac
+,max 192.168.15.34
+,"Bydka ""Yakira"""
+,Bydka 'Yakira'
+,Lenina.102A
+,Lenina.88
+,Abonentu-test
+,Gromu
+,Palanka
+,ivan 192.168.33.140
+,hard 192.168.33.30
+,"Bydka ""RK.Lenina"""
+,"Bydka ""Manyilskogo"""
+,Urkivka
+,orel 192.168.33.31
+,pacmanna 192.168.33.35
+,support 192.168.33.133
+,frankusha 192.168.33.44
+,Zhovtneva..
+,Komarova.23A
+,Lenina.102B
+,Rodnikovka-camera
+,Office-camera
+,Registrator-camera
+,aronvit 192.168.15.253
+,vitya 192.168.15.42
+,L.Iskru
+,SIP
+,Chapaeva
+,shamanu4 192.168.33.152
+,Radyanska
+,athena 192.168.33.29

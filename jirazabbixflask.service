@@ -1,0 +1,19 @@
+[Unit]
+
+Description=jirazabbixflask service
+
+Requires=docker.service
+
+After=docker.service
+
+[Service]
+
+Restart=always
+
+ExecStart=/usr/bin/docker start -p 5000:6000 -a jira-zabbix-flask
+
+ExecStop=/usr/bin/docker stop -t 2 jira-zabbix-flask
+
+[Install]
+
+WantedBy=multi-user.target
